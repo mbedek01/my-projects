@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ca50525-47d7-4f49-9cab-396ea2b193b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Javadoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/controller/Controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/controller/Controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/controller/ControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/controller/ControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/controller/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/controller/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/controller/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/controller/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/model/Model.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/model/Model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/model/ModelTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/model/ModelTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/model/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/model/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/model/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/model/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/view/WindowView.Board.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/view/WindowView.Board.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/view/WindowView.Click.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/view/WindowView.Click.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/view/WindowView.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/view/WindowView.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/view/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/view/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javadoc/view/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/Javadoc/view/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/ModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ModelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/WindowView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/WindowView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9 (Optional)/src/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9 (Optional)/src/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9 (Optional)/src/GradableItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9 (Optional)/src/GradableItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9 (Optional)/src/GradingBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9 (Optional)/src/GradingBookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab9 (Optional)/src/GradingBookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab9 (Optional)/src/GradingBookModel.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1745">
+              <caret line="149" column="32" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
+              <folding>
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1173#1174#0" expanded="true" />
+                <element signature="e#1827#1828#0" expanded="true" />
+                <element signature="e#1870#1871#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/ModelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="105" column="69" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1280">
+              <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/ControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-872">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/WindowView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="118" column="45" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1458#1459#0" expanded="true" />
+                <element signature="e#1499#1500#0" expanded="true" />
+                <element signature="e#3914#3915#0" expanded="true" />
+                <element signature="e#3966#3967#0" expanded="true" />
+                <element signature="e#6649#6650#0" expanded="true" />
+                <element signature="e#6696#6697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coloumn</find>
+      <find>updateGrids</find>
+      <find>ViewColorGrid</find>
+      <find>updateColorGrid</find>
+      <find>initializeViewColorGrid</find>
+      <find>columnNo</find>
+      <find>column</find>
+      <find>Running</find>
+      <find>exit</find>
+      <find>checkIfGameIsOver</find>
+      <find>qui</find>
+      <find>sleep</find>
+      <find>quit</find>
+      <find>minConsecutiveElem</find>
+      <find>1</find>
+      <find>RED_COLOR</find>
+      <find>modelsColorGrid</find>
+      <find>startingRowForDiags</find>
+      <find>turn</find>
+      <find>showDiagAndQuit</find>
+      <find>player</find>
+      <find>Player</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/controller/ControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/view/WindowView.java" />
+        <option value="$PROJECT_DIR$/src/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/model/ModelTest.java" />
+        <option value="$PROJECT_DIR$/src/controller/Controller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/../Homework6/src/.idea/src.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/../Assignment7/src/.idea/src.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1434" />
+    <option name="height" value="808" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FinalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+      <recent name="controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Controller">
+    <configuration name="Controller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Controller" />
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.ControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelTest.checkIfLeftDownDiagonal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ModelTest" />
+      <option name="METHOD_NAME" value="checkIfLeftDownDiagonal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModelTest.checkIfRightDownDiagonal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ModelTest" />
+      <option name="METHOD_NAME" value="checkIfRightDownDiagonal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Controller" />
+        <item itemvalue="JUnit.ModelTest.checkIfLeftDownDiagonal" />
+        <item itemvalue="JUnit.ModelTest.checkIfRightDownDiagonal" />
+        <item itemvalue="JUnit.ControllerTest" />
+        <item itemvalue="JUnit.ModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca50525-47d7-4f49-9cab-396ea2b193b8" name="Default Changelist" comment="" />
+      <created>1565621683155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565621683155</updated>
+      <workItem from="1565621684483" duration="73280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ModelTest - 2019.08.14 at 20h 54m 16s.xml">
+      <configuration name="ModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2019.08.14 at 20h 55m 49s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2019.08.14 at 21h 54m 39s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModelTest_checkIfRightDownDiagonal - 2019.08.14 at 22h 43m 19s.xml">
+      <configuration name="ModelTest.checkIfRightDownDiagonal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModelTest_checkIfRightDownDiagonal - 2019.08.14 at 22h 44m 04s.xml">
+      <configuration name="ModelTest.checkIfRightDownDiagonal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModelTest_checkIfRightDownDiagonal - 2019.08.14 at 22h 44m 24s.xml">
+      <configuration name="ModelTest.checkIfRightDownDiagonal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModelTest - 2019.08.14 at 22h 53m 16s.xml">
+      <configuration name="ModelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ControllerTest - 2019.08.14 at 22h 53m 38s.xml">
+      <configuration name="ControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModelTest_checkIfRightDownDiagonal - 2019.08.14 at 23h 36m 50s.xml">
+      <configuration name="ModelTest.checkIfRightDownDiagonal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ModelTest_checkIfLeftDownDiagonal - 2019.08.14 at 23h 40m 14s.xml">
+      <configuration name="ModelTest.checkIfLeftDownDiagonal" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73280000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1434" height="808" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41759777" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2611732" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/MouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="3392" column="16" selection-start-line="3392" selection-start-column="16" selection-end-line="3392" selection-end-column="16" />
+          <folding>
+            <element signature="e#116693#116694#0" expanded="true" />
+            <element signature="e#116740#116741#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/com/apple/laf/AquaRootPaneUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="307" selection-start-line="307" selection-end-line="307" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-872">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WindowView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="118" column="45" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#3914#3915#0" expanded="true" />
+            <element signature="e#3966#3967#0" expanded="true" />
+            <element signature="e#6649#6650#0" expanded="true" />
+            <element signature="e#6696#6697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1745">
+          <caret line="149" column="32" selection-start-line="149" selection-start-column="32" selection-end-line="149" selection-end-column="32" />
+          <folding>
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ModelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="105" column="69" selection-start-line="105" selection-start-column="69" selection-end-line="105" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1280">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FinalProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
